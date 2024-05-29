@@ -1,6 +1,6 @@
 <h1>Hola! Soy Gabi, Programador Frontend 👋</h1>
 
-<h4>Soy egresado del Bootcamp de SoyHenry 🚀 con más de 800 horas de programación teórica - practica. Desarrollador de soluciones desde Argentina. Desde que sentí la experiencia de trabajo en equipo (algo increíble), en este rubro, desarrollo soluciones informáticas para diversos problemas. Tuve la oportunidad de trabajar en proyectos de manera individual y grupal, donde sentí un gran crecimiento personal y profesional, donde pude y puedo poner en prácticas mis conocimientos. Actualmente sigo instruyéndome con nuevas tecnologías y especializando otras para poder incrementar mi desempeño.</h4>
+<h4>"Desarrollador Frontend con habilidades y experiencia en el desarrollo de Backend utilizando tecnologías como SQL, NodeJS y Express. Experiencia laboral en el desarrollo de aplicaciones web utilizando React, Redux, Next JS, entre otras herramientas. En mi carrera profesional, he enfatizado en trabajar en equipo, fomentar la comunicación y lograr el progreso colectivo e individual. Me destaco por ser autónomo y por adaptarme fácilmente a los cambios para resolver problemas. Me apasiona aprender cosasnuevas y aplicarlas en mi trabajo."</h4>
 
 
 <h2>Tecnologías</h2>
